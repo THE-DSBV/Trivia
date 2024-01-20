@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Instructions
-comment1.params=
-comment1.target=void\ display()
-comment2.params=g
-comment2.target=void\ paint(java.awt.Graphics)
-comment3.params=e
-comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
-numComments=4
